@@ -1,0 +1,28 @@
+{
+  "name": "sms-pagination-uber-interview",
+  "version": "1.0.0",
+  "description": "A simple and useful project for prototyping ideas and concept tests, always starting with TDD of course.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node src/index.ts",
+    "test": "./node_modules/.bin/jest"
+  },
+  "keywords": [
+    "typescript",
+    "jest",
+    "tdd"
+  ],
+  "author": {
+    "name": "Alex Leko",
+    "email": "lekodeveloperweb@hotmail.com",
+    "url": "https://ldw.solutions"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.6",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
